@@ -18,6 +18,7 @@ print('array count ',len(namelist))
 
 listone = {1,2,3}
 listtwo = {3,4,5}
+
 listthree = {'Test1':1001,'Test2':2010}
 print(list(listthree.items()))
 print(listthree.get('Test1'))
