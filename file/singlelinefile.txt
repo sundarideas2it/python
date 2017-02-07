@@ -1,0 +1,2 @@
+('To write other than string. first convert that into string and then write to file', 999) This text is append to the file 
+ This will print to the next line
